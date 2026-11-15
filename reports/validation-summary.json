@@ -1,0 +1,7 @@
+{
+  "pytest_passed": 2,
+  "pytest_output": "..                                                                       [100%]\n2 passed in 0.61s",
+  "executed": "Run replay, terminal-state consistency, late START handling, dataset/column lineage, role-derived access, field allowlisting, and keyed pseudonyms. The local catalog demo was executed.",
+  "not_executed": "A full OpenLineage conformance suite and external identity/Atlas integrations were not executed.",
+  "test_python": "3.9.6"
+}
